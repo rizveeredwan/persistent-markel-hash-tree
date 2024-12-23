@@ -9,3 +9,5 @@ Client side code - ``ClientEnd.ipynb``
 Server side code - ``server_segment_tree_control.ipynb`` 
 
 Persistent Data Structure is implemented in - ``markel_hash_seg_tree.ipynb``
+
+The project best runs on google drive. The google drive link can be found following: https://drive.google.com/drive/folders/19rzU4HoNYjXlozAHiBICTqQMNTAzZ-I5?usp=sharing
